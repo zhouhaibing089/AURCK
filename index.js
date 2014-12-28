@@ -3,8 +3,6 @@ var pkg = require("./package");
 pkg.getPkgList(function(pkgList) {
     var updateList = [];
 
-    var index = 0;
-
     var process = function(index) {
         if (index === pkgList.length) {
             console.log("Summary: ");
