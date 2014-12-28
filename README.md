@@ -15,7 +15,6 @@ node index.js
 
 ### Screenshot
 
-![Screenshot_1](https://raw.githubusercontent.com/zhouhaibing089/aurupdate/master/screenshot/sc1.png)
+![Screenshot_1](https://raw.githubusercontent.com/zhouhaibing089/aurupdate/master/sc1.png)
 
-![Screenshot_2](https://raw.githubusercontent.com/zhouhaibing089/aurupdate/master/screenshot/sc2.png)
-
+![Screenshot_2](https://raw.githubusercontent.com/zhouhaibing089/aurupdate/master/sc2.png)
