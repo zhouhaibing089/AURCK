@@ -5,7 +5,7 @@ A small program try to check aur package version and tells which packages need u
 
 ### Run
 
-This small program is written by nodejs, and it requires `request`(for http get) and `cheerio`(for dom parsing).
+This small program is written with nodejs, and it requires `request`(for http get) and `cheerio`(for dom parsing).
 
 ```shell
 npm install request
